@@ -3,7 +3,7 @@
 postgresql_enablerepo: ""
 
 # RHEL/CentOS only. Use postgres from an Software Collection (SCL).
-postgresql_use_scl: False
+postgresql_use_scl: false
 
 # RHEL/CentOS only. The SCL version to use.
 postgresql_scl_version: 96
